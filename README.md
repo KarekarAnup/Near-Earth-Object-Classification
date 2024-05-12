@@ -1,2 +1,5 @@
 # Near-Earth-Object-Classification-Project
 NEO Risk Assessment: Predicts Hazardous Asteroids. Classifies into Low, Moderate, High risk levels based on features. Aids space monitoring &amp; impact mitigation strategies.
+"NEO Risk Assessment: Predicting Potentially Hazardous Asteroids"
+
+This project aims to analyze Near-Earth Objects (NEOs) such as asteroids and comets to assess their potential hazard to Earth. Using machine learning algorithms such as Logistic Regression, Decision Trees, and Random Forest, the project predicts the probability of NEOs being Potentially Hazardous Asteroids (PHAs) based on features like diameter, albedo, eccentricity, and orbital parameters. By classifying NEOs into different risk levels (Low, Moderate, High), the project provides valuable insights into impact risk probabilities and helps in understanding the potential threats posed by NEOs. The analysis contributes to space monitoring efforts and aids in developing strategies for planetary defense and impact mitigation.
